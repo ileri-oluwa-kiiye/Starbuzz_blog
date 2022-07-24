@@ -1,0 +1,1 @@
+A blog for an inexistent cofee making company with HTML and CSS.

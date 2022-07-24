@@ -1,0 +1,50 @@
+body{
+    background-color: #efe5d0;
+    padding: 0.7% 3%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+div.form{
+    background-color: #e1ceb8;
+    padding: 10px;
+    padding-left: 13%;
+}
+
+.table{
+    display: table;
+}
+
+.tablerow{
+    display: table-row;
+}
+
+p.bold{
+    font-weight: 600;
+}
+
+.form textarea{
+    width: 350px;
+    height: 170px;
+}
+
+div div p{
+    display: table-cell;
+    vertical-align: top;
+    padding: 3px;
+    
+}
+div.tablerow p:first-child{
+    text-align: right;
+}
+
+
+
+h1{
+    color: #954b4b;
+    font-size: 1.5em;
+}
+
+body h2{
+    font-size: 1.4em;
+    font-weight: 800;
+}
